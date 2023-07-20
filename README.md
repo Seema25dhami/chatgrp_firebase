@@ -1,4 +1,5 @@
-------------GOOSIPY------------- /n
+<font color="red">**GOSSIPY**</font>
+
 Flutter mobile app for group chat that enables real-time conversations with friends and colleagues via text , voice notes , photos and videos, It offers an easy-touse interface with customization options such as group names and profile picture.
 
 This project is a starting point for a Flutter application.
