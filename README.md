@@ -1,4 +1,4 @@
-**GOSSIPY**
+# **GOSSIPY**
 
 Flutter mobile app for group chat that enables real-time conversations with friends and colleagues via text , voice notes , photos and videos, It offers an easy-touse interface with customization options such as group names and profile picture.
 
